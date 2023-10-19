@@ -4,7 +4,7 @@
 [wigyori's repository from git.openwrt.org](https://git.openwrt.org/?p=openwrt/staging/wigyori.git;a=shortlog;h=refs/heads/riscv-jh71x0-202308b)
 
 ## Guide | 编译说明 ##
-* English: [https://forum.rvspace.org/t/compile-and-install-openwrt-on-visionfive-2/3587/2](https://forum.rvspace.org/t/compile-and-install-openwrt-on-visionfive-2/3587/2]
+* English: [https://forum.rvspace.org/t/compile-and-install-openwrt-on-visionfive-2/3587/2](https://forum.rvspace.org/t/compile-and-install-openwrt-on-visionfive-2/3587/)
 * 中文: [https://forum.rvspace.org/t/visionfive-2-openwrt/3585](https://forum.rvspace.org/t/visionfive-2-openwrt/3585)
 
 ## Preinstalled packages other than defaults | 除去默认安装包后的预装软件包 ##
